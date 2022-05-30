@@ -1,2 +1,2 @@
-git git git
-enjoy handson
+Hi git
+enjoy git
